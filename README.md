@@ -4,8 +4,7 @@ Getting started
 
 To start the website please write the followings to your terminal:
 
-1.) cd nasa
-2.) npm start
+1.) npm start
 
 
 The project
